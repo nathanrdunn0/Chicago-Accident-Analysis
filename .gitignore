@@ -1,0 +1,16 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore environment variables (if any)
+.env
+*.env
+
+# Ignore data files, as they are downloaded dynamically
+data/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.out
+*.swp
+*.swo
